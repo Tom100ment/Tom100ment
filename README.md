@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello there! 👋🏻 I am Anish Kolhe!
 
-I am <b>Anish Kolhe</b>. I am currently an undergraduate student pursuing my degree in Electrical Engineering from Dr. D.Y Patil Institute Of Technology,Pimpri,Pune. I am a Web Developer and also currently developing keen interest in Problem Solving. I am skilled in programming languages like Python and C++. Also I am familiar with the IOT, AI and ML. With the knowledge of cyber security, Splunk, SIEM Solutions (IBM Qradar, ElasticSearch & kibana). Currently exploring and practicing Wazuh and BlockChain Technology. And familiar with OS like linux and CentOS. I am looking forward to collaborate on, and help with any AI & ML and CyberSecurity related projects and I love exploring new tools I could contribute in building which could have an everlasting effect on humanity.
+I am <b>Anish Kolhe</b>. I am currently an undergraduate student pursuing my degree in Electrical Engineering from Dr. D.Y Patil Institute Of Technology,Pimpri,Pune. I am a Web Developer and also currently developing keen interest in Problem Solving. I am skilled in programming languages like Python and C++. Also I am familiar with the IOT, AI and ML. With the knowledge of cyber security, Splunk, SIEM Solutions. And familiar with OS like linux and CentOS. I love exploring new tools I could contribute in building which could have an everlasting effect on humanity.
 <br /><br />
 
 [![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AK1003018&show_icons=true&theme=dark&count_private=true&hide=stars,issues)](https://github.com/AK1003018/github-readme-stats)
